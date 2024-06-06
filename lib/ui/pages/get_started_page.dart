@@ -24,7 +24,7 @@ class GetStartedPage extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.end,
               children: [
                 Text(
-                  'Fly Like a Bird',
+                  'UPB Travel',
                   style: whiteTextStyle.copyWith(
                     fontSize: 32,
                     fontWeight: semiBold,
