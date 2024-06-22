@@ -50,7 +50,7 @@ class SignUpPage extends StatelessWidget {
 
       Widget submitButton() {
         return CustomButton(
-          title: 'GetStarted',
+          title: 'Get Started',
           onPressed: () {
             Navigator.pushNamed(context, '/bonus');
           },
